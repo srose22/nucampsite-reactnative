@@ -11,7 +11,7 @@ import {
 import HomeScreen from "./HomeScreen";
 import AboutScreen from "./AboutScreen";
 import ContactScreen from "./ContactScreen";
-import ReservationScreen from "./ReservationComponent";
+import ReservationScreen from "./ReservationScreen";
 import { Icon } from "react-native-elements";
 import logo from "../assets/images/logo.png";
 import { useDispatch } from "react-redux";
